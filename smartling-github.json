@@ -1,0 +1,8 @@
+{
+    "resourcesSets": [
+        {
+            "pathRegex": "resources/.*\\.properties",
+            "type": "javaProperties"
+        }
+    ]
+}
