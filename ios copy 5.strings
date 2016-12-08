@@ -1,0 +1,17 @@
+/* Watchlists */
+"Crumb" = "< Watchlists";
+"Header" = "Popular Markets";
+"Column 1" = "Bid";
+"Column 2" = "Offer";
+"Column 3" = "Change";
+"Column 4" = "Change %";
+
+/* Price Alerts */
+"Header" = "Price Alerts";
+"Action" = "Edit";
+"Filter 1" = "All";
+"Filter 2" = "Triggered";
+"Filter 3" = "Untriggered";
+"Sub Header 1" = "Alert";
+"Sub Header 2" = "Latest";
+"Sub Header 3" = "Set/Triggered";
