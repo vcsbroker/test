@@ -19,11 +19,11 @@
     ],
     "resourcesSets": [
         {
-            "pathRegex"                 : "resources/(?<path>.*)\\.properties",
-            "translationPathExpression" : "translation/${path}_${locale}.${originalFile.extension}",
+           	"type"                      : "javaProperties",
+            "pathRegex"                 : "resources/.*\\.properties",
+            "translationPathExpression" : "translation/${originalFile.baseName}_${locale}.${originalFile.extension}",
             "translationCommitMessage"  : "Task TRN-18 translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
-            "type"                      : "javaProperties",
-            "authorizeContent"          : true
+            "authorizeContent"          : "true"
         }
     ]
 }
