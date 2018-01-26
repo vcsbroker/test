@@ -18,12 +18,12 @@
         }
     ],
     "resourcesSets": [
-        {
-           	"type"                      : "javaProperties",
-            "pathRegex"                 : "resources/.*\\.properties",
-            "translationPathExpression" : "translation/${originalFile.baseName}_${locale}.${originalFile.extension}",
-            "translationCommitMessage"  : "Task TRN-18 translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
-            "authorizeContent"          : "true"
-        }
+                 {
+             "type"                      : "javaProperties",
+             "authorizeContent"          : true,
+             "pathRegex"                 : "resources/(?<path>.*)\\.properties",
+             "translationPathExpression" : "translation/${locale}/${path}.${originalFile.extension}",
+             "translationCommitMessage"  : "Task TRN-18 translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}"
+         }
     ]
 }
