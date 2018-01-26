@@ -17,7 +17,7 @@
             "application" : "zh_HANS"
         }
     ],
-    "resourcesSets": [
+    "resourceSets": [
                  {
              "type"                      : "javaProperties",
              "authorizeContent"          : true,
