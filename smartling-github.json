@@ -10,7 +10,7 @@
              "type"                      : "json",
              "authorizeContent"          : true,
              "pathRegex"                 : "resources/(?<path>.*)\\.json",
-             "translationPathExpression" : "translation/${locale}/${path}.${originalFile.extension}",
+             "translationPathExpression" : "translation/${path}_${locale}.${originalFile.extension}",
              "translationCommitMessage"  : "Translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
              "smartlingDirectives" : [
 				"smartling.paths=title,main-title,meta-title,meta-description,title-short,state-dropdown,bite,page_name,takeaction-heading,*/title,tags,excerpt,content",
