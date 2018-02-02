@@ -11,9 +11,9 @@
              "authorizeContent"          : true,
              "pathRegex"                 : "resources/(?<path>.*)\\.json",
              "translationPathExpression" : "translation/${locale}/${path}.${originalFile.extension}",
-             "translationCommitMessage"  : "Task TRN-18 translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
+             "translationCommitMessage"  : "Translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
              "smartlingDirectives" : [
-             	"smartling.paths=title,main-title,meta-title,meta-description,title-short,state-dropdown,bite,page_name,takeaction-heading,*/title,tags,excerpt,content",
+				"smartling.paths=title,main-title,meta-title,meta-description,title-short,state-dropdown,bite,page_name,takeaction-heading,*/title,tags,excerpt,content",
 				"smartling.string_format_paths=html:content,html:excerpt"
 				]
          },
