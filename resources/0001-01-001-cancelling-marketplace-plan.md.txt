@@ -1,0 +1,183 @@
+
+---
+type: explainer
+published: true
+experience: learn
+title: "Canceling a Marketplace plan when you get Medicaid or CHIP"
+main-title: "Medicaid & CHIP"
+"meta-title": "Canceling a Marketplace health plan when you get Medicaid or CHIP"
+"meta-description": "Once you’re determined to be eligible for Medicaid or the Children’s Health Insurance Program (CHIP), you’re no longer eligible for a premium tax credit and savings on out-of-pocket costs with a Marketplace plan."
+"title-short": "Canceling your plan when you get Medicaid or CHIP"
+bite: "Once you’re determined to be eligible for Medicaid or the Children’s Health Insurance Program (CHIP), you’re no longer eligible for a premium tax credit and savings on out-of-pocket costs with a Marketplace plan."
+lang: en
+layout: explainer
+featured: false
+order: 5
+explainertopic: medicaid-chip
+categories: medicaid-chip
+hide-take-action: true
+page_name: "Canceling a Marketplace plan when you get Medicaid or CHIP"
+page_type: "explainer"
+page_topic: "plans-cancel"
+page_lifecycle: "insured"
+page_audience: "individuals"
+page_category: "medicaid-chip"
+---
+
+Once you get a final determination that you're eligible for Medicaid or the Children’s Health Insurance Program (CHIP) that counts as [qualifying health coverage](/glossary/qualifying-health-coverage "glossary") (or "minimum essential coverage"): 
+
+*	You’re no longer eligible for a Marketplace plan with [advance payments of the premium tax credit](/glossary/advanced-premium-tax-credit "glossary") and savings on [out-of-pocket costs](/glossary/out-of-pocket-costs "glossary") 
+*	You should IMMEDIATELY end Marketplace coverage with premium tax credits or other cost savings for anyone in your household who is determined eligible for or already enrolled in Medicaid or CHIP that counts as qualifying health coverage
+*	If you still want a Marketplace plan after you’re found eligible for Medicaid or CHIP, you will have to pay full price for your share of the Marketplace plan without premium tax credits or other cost savings
+
+**Note:** Most programs through Medicaid and CHIP count as qualifying health coverage under the health care law. If your Medicaid program **doesn't** count as qualifying health coverage, you **may be** eligible for advance payments of the premium tax credit and other savings on a Marketplace health plan, if you qualify based on your income and other factors. [Find out if your Medicaid program counts as qualifying health coverage](/medicaid-limited-benefits/).
+
+<a id="notice" class="aname"></a>
+## You may get a notice from the Marketplace 
+
+If our records show you’re enrolled in both a Marketplace plan with premium tax credits or other cost savings **and** Medicaid or CHIP — something we check a few times a year — you may get a notice in the mail that lists the household members who are enrolled in both kinds of coverage. The notice explains what to do next. 
+
+> %blockquote-important%
+> > **IMPORTANT** Take action by the date indicated on your notice (within **30 days**). If you’re enrolled in a Marketplace plan and get help paying for coverage, you should end your enrollment. If you choose to stay enrolled in a Marketplace plan, the Marketplace will recalculate your eligibility for this financial help.
+
+If you want more information about Medicaid or CHIP, or if you aren’t sure if you or others in your household are enrolled in Medicaid or CHIP, you can contact the office in your state:
+
+* For Medicaid, [choose your state](/medicaid-chip/getting-medicaid-chip/#howtoapply) 
+* For CHIP, visit [www.insurekidsnow.gov](http://www.insurekidsnow.gov/), or call 1-877-543-7669 
+
+> **If you still want a Marketplace plan** 
+
+> You can have both Marketplace coverage **and** Medicaid or CHIP, but you are not eligible to receive advance payments of the premium tax credit or other cost savings to help pay for your share of the Marketplace plan.
+
+> *	**If you are on an application with other people who are also enrolled in Marketplace coverage:** You’ll need to ["report a life change"](/reporting-changes/how-to-report-changes/) and then select that you are enrolled in Medicaid or CHIP. Continue to confirm enrollment in order to remain enrolled in your plan without premium tax credits or other cost savings.
+
+> *	**If you are the only person on your application who is enrolled in Marketplace coverage:** You’ll need to end your Marketplace plan with premium tax credits and then submit a new application for Marketplace coverage without premium tax credits or other cost savings. You can only enroll in Marketplace coverage during the annual [Open Enrollment Period](/glossary/open-enrollment-period "glossary") or if you qualify for a Special Enrollment Period.
+
+## When and how to end your Marketplace plan
+
+When and how you end your Marketplace plan depends on the following:
+
+* If you’re currently enrolled in Medicaid or CHIP coverage that counts as qualifying health coverage
+* If you’re ending coverage for the household contact
+* If you’re ending coverage for everyone on your plan or just some members
+   * If everyone on your application is found eligible for Medicaid or CHIP, you’ll want to end your Marketplace plan for everybody. 
+   * If just some people on your Marketplace plan are found eligible for Medicaid or CHIP, you’ll want to end Marketplace coverage only for those who are eligible for Medicaid or CHIP.
+
+> **IMPORTANT:** The household contact is usually the person who created the Marketplace account and may have filled out the application to buy the Marketplace plan for a spouse or dependents. You must [contact the Marketplace Call Center](/contact-us/) to:
+
+> *	Change the household contact 
+> *	Remove the household contact from the plan if others in your household are staying on the plan
+
+> **Don’t try to do this online** unless you’re ending coverage for everyone on the plan. It’s important to do this by phone so dependents can stay on the plan.
+
+## Steps to end your Marketplace plan
+
+The steps to end your Marketplace plan may be different depending on your situation. 
+
+### If you’re waiting to hear if you’re eligible for Medicaid or CHIP OR your notice says you “may be eligible” for Medicaid or CHIP
+
+You’ll probably want to **wait to end your Marketplace plan** if:
+
+* The eligibility notice you get from the Marketplace when you applied or updated your information says you or others on your application “may be eligible” for Medicaid or CHIP
+* You or others in your household applied for Medicaid or CHIP at your state Medicaid or CHIP agency and you're waiting for your eligibility results
+
+
+**Important:** If you end your Marketplace plan before you get a final decision of your Medicaid or CHIP eligibility and are later found ineligible for Medicaid or CHIP, you can’t re-enroll in the Marketplace plan unless you qualify for a [Special Enrollment Period](/glossary/special-enrollment-period "glossary"). Otherwise, you’d have to wait for the next [Open Enrollment Period](/glossary/open-enrollment-period "glossary") and may have a gap in coverage. If you can afford health insurance but choose not to buy it, you must have a [health coverage exemption](/health-coverage-exemptions/) or pay a [fee](/fees/). 
+
+### If your notice says you “are eligible” for Medicaid or CHIP OR you or others in your household are enrolled in Medicaid or CHIP
+
+You’ll want to **end your Marketplace plan immediately** if:
+
+* Your eligibility notice from the Marketplace or the state Medicaid or CHIP agency says you or others in your household “are eligible” for Medicaid or CHIP
+* You or others in your household are currently enrolled in Medicaid or CHIP that’s considered qualifying health coverage 
+* You received a notice from the Marketplace that says you are enrolled in Medicaid or CHIP
+
+> %faq%
+> 
+> [Ending a Marketplace plan for **everyone** on your application](id:eligibleendingforeveryone)
+> 
+> : Follow these steps to end Marketplace coverage for everyone on your Marketplace plan:
+>    1.	[Log into your Marketplace account.](/login) 
+>    2. Click “Start a new application or update an existing one.”
+>    3. Click on your name in the top right of the screen and select “My applications & coverage” from the dropdown.
+>    4. Select your application under “Your existing applications.”
+>    5.	See your “Marketplace & Medicaid/CHIP coverage” information. Answer a brief question about each person’s Medicaid or CHIP coverage.
+>    6.	On the left side of the screen, select “My plans & programs.” **Don't select the green "Update application" button.**
+>    7.	Scroll down and select the red button that says “End (Terminate) All Coverage.”
+>    8.	Select the date you want to end your coverage (as soon as 14 days from the current date). 
+>    9.	Check the attestation box.
+>    10.	Click the red “Terminate Coverage” button.
+>
+> : A red “Terminated” or “Cancelled” status should appear above the plan you ended.
+>
+> : **You can also end your plan by phone.** [Contact the Marketplace Call Center](/contact-us/).
+
+> %faq%
+> 
+> [Ending a Marketplace plan for **just some people**](id:eligibleendingsome)
+> 
+> : You can end coverage for just some people on your Marketplace plan, such as a spouse or dependents.
+> 
+> : You may want to do this if someone in your household gets coverage from another source, but the rest of the people on the application want to keep their Marketplace coverage.
+> 
+> : Follow these steps to end Marketplace coverage only for **some people**:
+>    1. [Log into your Marketplace account.](/login)
+>    2. Click “Start a new application or update an existing one.”
+>    3. Click on your name in the top right of the screen and select “My applications & coverage” from the dropdown.
+>    4. Select your application under “Your existing applications.”
+>    5. Click “Report a life change” on the menu to the left.
+>    6. Click “Report a Life Change” near the bottom of the page.
+>    7. Select “Report a change in my household’s income, size, or other information.”
+>    8. Check the attestation box, then click “Save & Continue.” 
+>    9. Continue through the application, updating information as necessary.
+>    10. For the “Who Needs Coverage” question, indicate the household members who want to **keep** Marketplace coverage.
+>    11. Click “Save & Continue.”
+>    12. Click "Remove" for people who are eligible for or currently enrolled in Medicaid or CHIP.
+>    13. Confirm the removals and answer any following questions.
+>    14. Click “Save.”
+>    15. **Note: You must complete steps 12, 13 and 14 for each household member you want to remove from Marketplace coverage**. After removing these people from the list of people who need Marketplace coverage, if they’re still members of your tax household (like your spouse or tax dependents on your federal income tax return), you need to add them back in as people in your household who don’t need Marketplace coverage. This is because your savings are based on income for everyone in your household — including people who don’t need coverage. 
+>    16. Continue clicking through the application, updating information as necessary.
+>    17. When you get to the screen that asks about your household information, answer the questions appropriately and list members of the tax household. This  may include listing people you just removed as an **applicant,** if they’re still a member of the tax household.
+>       * Click “Save & Continue.” 
+>       * Continue clicking through the application, adding or updating information as needed. 
+>    18. Click “View Eligibility Results.” After you’ve read them, click “Continue to Enrollment.”
+>    19. **Important:** Complete all items on the “To-Do List,” including selecting and confirming a plan. 
+>       * The plan selection will show only people who applied and were found eligible to enroll in a Marketplace plan. Anyone who is or may be eligible for Medicaid or CHIP **OR** who is no longer applying for Marketplace coverage won’t appear in the plan selection.
+>       * Anyone continuing Marketplace coverage must select and confirm enrollment in a Marketplace plan for the coverage changes to take effect. Anyone eligible for a Special Enrollment Period can select a new plan if they want to.
+>       * Once enrollment in a Marketplace plan is confirmed, coverage will be ended for the people you’ve removed. 
+>
+> : In most cases, when you end coverage for only some people on your application, their coverage ends immediately.
+>
+> : If Marketplace coverage doesn’t end immediately for the person being removed from the plan:
+>    * Coverage will end on the last day of the current month if the person is removed on or before the 15th of the month. 
+>    * Coverage will end on the last day of the next following month if the person is removed after the 15th of the month.
+>
+> : This could be the case if the people staying on the Marketplace plan qualify for a Special Enrollment Period. For example, if you update your household income after ending coverage for one or more people and the amount of premium tax credits or other cost savings changes, the remaining enrollees may qualify for a Special Enrollment Period. The coverage end date for the person being removed from coverage will align with the coverage effective dates of the Special Enrollment Period.
+>
+> : You can also end coverage for just some members of your household members by phone. [Contact the Marketplace Call Center.](/contact-us/)
+
+## More Answers
+
+> %faq%
+> [What if I have Medicaid now, but I only have limited benefits?](id:limitedbenefits)
+> 
+> : Some limited types of Medicaid coverage pay only for:
+>    * Family planning
+>    * Emergency Medicaid
+>    * Tuberculosis services
+>    * Outpatient hospital services
+>
+> : If you have limited-benefit Medicaid coverage, you can apply for coverage through the Marketplace to get comprehensive coverage in addition to your limited-benefit Medicaid coverage. Because this type of Medicaid is not considered qualifying health coverage, you may qualify for [lower costs on your monthly premiums](/lower-costs/save-on-monthly-premiums/) and extra savings on [out-of-pocket costs](/lower-costs/save-on-out-of-pocket-costs/) for a Marketplace plan, depending on your household size and income.
+>
+> : **Important:** If you have limited-benefit Medicaid coverage, when you fill out a Marketplace application and are asked whether you have coverage now, don’t check the box saying you have Medicaid. Check “None of the above” instead.
+> 
+> : **Note for current Marketplace enrollees:** If you are enrolled in Marketplace coverage with premium tax credits or other cost savings, you don’t have to end your Marketplace plan to enroll in limited-benefit Medicaid. That’s because limited-benefit Medicaid isn’t considered qualifying health coverage. You can apply for this coverage directly to your state Medicaid agency. 
+
+> %faq%
+> [What if I’m not enrolled in or eligible for Medicaid or CHIP, but I got a notice?](id:notice)
+> 
+> : If you’re not enrolled in Medicaid or the Children's Health Insurance Program (CHIP), and got a notice that you may lose financial help for your Marketplace coverage because of enrollment in one of these programs, you need to tell the Marketplace you’re not enrolled in Medicaid or CHIP by updating your application.  If you don’t, you’ll pay more for your monthly premiums because your advance payments of the premium tax credit and cost-sharing reductions (if applicable) will end.
+>
+> : To update your application:
+>    1. [Check out this guide (PDF)](/downloads/marketplace-medicaid-chip-guide.pdf) for help. It’s a good idea to keep it open, so you can follow the steps to correctly update your information.
+>    2. [Report a life change](/reporting-changes/how-to-report-changes/) by the date indicated on your notice — within **30 days**.

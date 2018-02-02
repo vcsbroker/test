@@ -1,0 +1,71 @@
+
+---
+type: explainer
+published: false
+experience: learn
+title: "Your 2018 health insurance letters"
+main-title: "Keep or change your insurance plan"
+"meta-title": "Your 2017 health insurance letters"
+"meta-description": "Learn when you'll get letter (notices), why you got them, what to do. See options, deadlines, next steps if you do or don't receive. Avoid coverage gaps."
+"title-short": "2017 enrollment notices"
+bite: "By the end of October 2016, you should get two notices by mail or email. Together they explain your status and options for 2017 coverage."
+lang: en
+layout: explainer
+featured: false
+order: 3
+explainertopic: keep-or-change-plan
+categories: keep-or-change-plan
+seo-keywords: "health insurance marketplace notice, health insurance notice, update your income, 2016 health coverage"
+page_name: "What Health Insurance Marketplace Notices Mean For You"
+page_type: "explainer"
+page_topic: "plans"
+page_lifecycle: "insured"
+page_audience: "individuals"
+page_category: "keep-or-change-plan"
+takeaction-heading: "START HERE"
+takeaction-items:
+  - title: Log in to keep/change plan
+    link: "/login/"
+  - title: Shop for new plans & prices
+    link: "/see-plans/"
+  - title: Auto-renew? See options
+    link: "/keep-or-change-plan/automatically-enrolled/"
+---
+
+If you had a 2017 Marketplace insurance plan, you should have received two 2018 re-enrollment letters: one from your insurance company and one from the Health Insurance Marketplace.
+
+## Your Health Insurance Marketplace letter includes: 
+
+* Any actions you must take to get a premium tax credit for 2018. This may mean you have to send documents, like tax or income information.
+* How to update your application for 2018 to make sure you get the right premium tax credit for the year
+
+## Your insurance company letter includes: 
+
+* Whether your 2017 plan is available in 2018.
+* If not, whether the company is offering you a similar or alternate plan.
+* Any changes to the plan for 2018.
+* The 2018 premium, after any premium tax credit has been applied. The tax credit may be based on your 2017 information or on information the Marketplace has from other sources.
+
+{% box tip %}
+</br>
+Be sure to keep your Health Insurance Marketplace and insurance company letters in a safe place and have them handy when you enroll in 2018 health coverage.
+{% endbox %}
+
+## More answers: Re-enrollment letters
+
+> %faq%
+> 
+> What if I didn't get a Health Insurance Marketplace notice?
+>
+> : Contact the [Marketplace Call Center](/contact-us/). Before you call, log in to your Marketplace account and check the messages. The notice may be there.
+
+> %faq%
+> What if I don't get a notice from my insurance company?
+>
+> : Contact your insurance company, not the Marketplace.
+
+> %faq%
+> 
+> How will I know when I've been automatically enrolled?
+>
+> : If you haven't updated your application and confirmed your plan selection by December 15, you'll get a letter from the Marketplace saying if you've been successfully enrolled in a new plan or not.
