@@ -1,29 +1,23 @@
 {
     "locales" : [
         {
-            "smartling"   : "de-DE",
-            "application" : "de_DE"
-        },
-        {
-            "smartling"   : "nl-NL",
-            "application" : "nl_NL"
-        },
-        {
-            "smartling"   : "ru-RU",
-            "application" : "ru_RU"
-        },
-        {
-            "smartling"   : "zh-CN",
-            "application" : "zh_HANS"
+            "smartling"   : "es-US",
+            "application" : "es-US"
         }
     ],
-    "resourcesSets": [
-        {
-            "pathRegex"                 : "resources/(?<path>.*)\\.properties",
-            "translationPathExpression" : "translation/${path}_${locale}.${originalFile.extension}",
-            "translationCommitMessage"  : "Task TRN-18 translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
-            "type"                      : "javaProperties",
-            "authorizeContent"          : true
-        }
+    "resourceSets": [
+                 {
+             "type"                      : "json",
+             "authorizeContent"          : true,
+             "pathRegex"                 : "resources/(?<path>.*)\\.json",
+             "translationPathExpression" : "translation/${path}_${locale}.${originalFile.extension}",
+             "translationCommitMessage"  : "Translate ${originalFile.name} to ${locale}\n${translatedFile.fullName}",
+             "smartlingDirectives" : [
+				"smartling.paths=title,main-title,meta-title,meta-description,title-short,state-dropdown,bite,page_name,takeaction-heading,*/title,tags,excerpt,content",
+				"smartling.string_format_paths=html:content,html:excerpt"
+				]
+         },
+         
+         
     ]
 }
