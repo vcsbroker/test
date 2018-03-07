@@ -1,0 +1,47 @@
+{
+  "draft" : False,
+  "categories" : ["Choisir-un-plan"],
+  "experience" : "Apprendre",
+  "type" : "Explainer",
+  "published" : True,
+  "title" : "3 choses à savoir avant de choisir un plan d'assurance santé ",
+  "main-title" : "Comment choisir un plan d'assurance santé",
+  "bite" : "Utilisez ce guide pour vous aider à comprendre comment comparer des plans et choisir celui qui est bon pour toi.",
+  "lang" : "En",
+  "layout" : null,
+  "featured" : False,
+  "order" : 1,
+  "explainertopic" : "Choisir-un-plan",
+  "page_name" : "Comparaison de plans de santé",
+  "page_type" : "Explainer",
+  "page_topic" : "Des plans",
+  "page_lifecycle" : "éducation",
+  "page_audience" : "Particuliers",
+  "page_category" : "Choisir-un-plan",
+  "hide-take-action" : True,
+  "has-video" : True,
+  "takeaction-heading" : "START HERE",
+  "takeaction-items" : [
+  {
+    "title" : "Voir si vous pouvez inscrire",
+    "link" : "Https://www.healthcare.gov/screener/"
+  },
+
+  {
+    "title" : "Mise à jour des ménages / revenu",
+    "link" : "/reporting-changes/"
+  },
+
+  {
+    "title" : "Utilisez votre nouvelle couverture",
+    "link" : "/using-marché-comparaison"
+  }],
+  "date" : "2014-07-25 00:00:00 -0400",
+  "slug" : "En comparant les plans-",
+  "ext" : ".md",
+  "tags" : [],
+  "excerpt" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"How to Choose a Plan in the Health Insurance Marketplace\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"youtube thumbnail\" /></a></p>\n\n<blockquote><p>How to Choose a Plan in the Health Insurance Marketplace</p></blockquote></div>\n\n<p>Choosing a health insurance plan can be complicated. Knowing just a few things before you compare plans can make it simpler.</p>\n\n<ul>\n<li><p><a href=\"/choose-a-plan/plans-categories/\">The 4 “metal” categories</a>: There are 4 categories of health insurance plans: Bronze, Silver, Gold, and Platinum. These categories show how you and your plan share costs. Plan categories have nothing to do with quality of care.</p></li>\n<li><p><a href=\"/choose-a-plan/your-total-costs/\">Your total costs for health care</a>: You pay a monthly bill to your insurance company (a &quot;premium&quot;), even if you don’t use medical services that month. You pay out-of-pocket costs, including a <a href=\"/glossary/deductible\" title=\"glossary\">deductible</a>, when you get care. It’s important to think about both kinds of costs when shopping for a plan.</p></li>\n<li><p><a href=\"/choose-a-plan/plan-types/\">Plan and network types</a> — <a href=\"/glossary/health-maintenance-organization-HMO\" title=\"glossary\">HMO</a>, <a href=\"/glossary/preferred-provider-organization-PPO\" title=\"glossary\">PPO</a>, <a href=\"/glossary/point-of-service-plan-POS-plan\" title=\"glossary\">POS</a>, and <a href=\"/glossary/exclusive-provider-organization-EPO-plan\" title=\"glossary\">EPO</a>: Some plan types allow you to use almost any doctor or health care facility. Others limit your choices or charge you more if you use providers outside their network.</p></li>\n</ul>\n\n\n<p>Remember that plans also may differ in quality. For the 2017 plan year, HealthCare.gov is introducing a pilot program to present health insurance plan <a href=\"/glossary/quality-ratings\" title=\"glossary\">quality ratings (or 'star' ratings)</a> for some plans. Plans in Virginia and Wisconsin will feature the quality ratings this year. <a href=\"/quality-ratings/\">Learn more about quality ratings</a>.</p>\n\n<h2>More Answers: What to know before you pick a health insurance plan</h2>\n\n<div class=\"faq\"><dl>\n<dt><span id=\"quality\">How can I learn about the quality of care doctors and hospitals provide?</span></dt>\n<dd><p>You can search, compare, and assess providers, hospitals, and other care facilities using <a href=\"/find-provider-information/\">these tools</a>.</p></dd>\n</dl></div>\n\n<div class=\"faq\"><dl>\n<dt><span id=\"save\">How can I find out if I can save on a Marketplace plan?</span></dt>\n<dd><p>Use this quick tool to <a href=\"/lower-costs/\">see if your income estimate falls in the range for a premium tax credit and cost-sharing reductions</a>. The type of savings you qualify for may affect which plan category is the best fit for you.</p></dd>\n</dl></div>\n\n<div class=\"faq\"><dl>\n<dt><span id=\"details\">How do I get details on plans I’m interested in, like if my doctors and drugs are covered?</span></dt>\n<dd><p>You can view a summary of benefits, a plan brochure, a provider directory, and a list of covered drugs for each plan. You’ll find links to all of these when you’re comparing Marketplace plans or <a href=\"/see-plans/\">previewing plans and prices</a> before you log in.</p></dd>\n<dd><p>You can also search for your doctors, medical facilities, and prescription drugs when you compare plans. Select your doctors, hospitals and other medical facilities, and prescription drugs. When you view plans, we’ll tell you if each one covers them in network.</p></dd>\n</dl></div>\n",
+  "url" : "/choose-a-plan/comparing-plans/",
+  "content" : "<div class=\"video-modal\"><p><a href=\"//www.youtube.com/embed/XOkPAANg3R8\" title=\"How to Choose a Plan in the Health Insurance Marketplace\"><img src=\"/images/video-modal/how-to-choose-a-plan-in-the-health-insurance-marketplace.jpg\" alt=\"youtube thumbnail\" /></a></p>\n\n<blockquote><p>How to Choose a Plan in the Health Insurance Marketplace</p></blockquote></div>\n\n<p>Choosing a health insurance plan can be complicated. Knowing just a few things before you compare plans can make it simpler.</p>\n\n<ul>\n<li><p><a href=\"/choose-a-plan/plans-categories/\">The 4 “metal” categories</a>: There are 4 categories of health insurance plans: Bronze, Silver, Gold, and Platinum. These categories show how you and your plan share costs. Plan categories have nothing to do with quality of care.</p></li>\n<li><p><a href=\"/choose-a-plan/your-total-costs/\">Your total costs for health care</a>: You pay a monthly bill to your insurance company (a &quot;premium&quot;), even if you don’t use medical services that month. You pay out-of-pocket costs, including a <a href=\"/glossary/deductible\" title=\"glossary\">deductible</a>, when you get care. It’s important to think about both kinds of costs when shopping for a plan.</p></li>\n<li><p><a href=\"/choose-a-plan/plan-types/\">Plan and network types</a> — <a href=\"/glossary/health-maintenance-organization-HMO\" title=\"glossary\">HMO</a>, <a href=\"/glossary/preferred-provider-organization-PPO\" title=\"glossary\">PPO</a>, <a href=\"/glossary/point-of-service-plan-POS-plan\" title=\"glossary\">POS</a>, and <a href=\"/glossary/exclusive-provider-organization-EPO-plan\" title=\"glossary\">EPO</a>: Some plan types allow you to use almost any doctor or health care facility. Others limit your choices or charge you more if you use providers outside their network.</p></li>\n</ul>\n\n\n<p>Remember that plans also may differ in quality. For the 2017 plan year, HealthCare.gov is introducing a pilot program to present health insurance plan <a href=\"/glossary/quality-ratings\" title=\"glossary\">quality ratings (or 'star' ratings)</a> for some plans. Plans in Virginia and Wisconsin will feature the quality ratings this year. <a href=\"/quality-ratings/\">Learn more about quality ratings</a>.</p>\n\n<h2>More Answers: What to know before you pick a health insurance plan</h2>\n\n<div class=\"faq\"><dl>\n<dt><span id=\"quality\">How can I learn about the quality of care doctors and hospitals provide?</span></dt>\n<dd><p>You can search, compare, and assess providers, hospitals, and other care facilities using <a href=\"/find-provider-information/\">these tools</a>.</p></dd>\n</dl></div>\n\n<div class=\"faq\"><dl>\n<dt><span id=\"save\">How can I find out if I can save on a Marketplace plan?</span></dt>\n<dd><p>Use this quick tool to <a href=\"/lower-costs/\">see if your income estimate falls in the range for a premium tax credit and cost-sharing reductions</a>. The type of savings you qualify for may affect which plan category is the best fit for you.</p></dd>\n</dl></div>\n\n<div class=\"faq\"><dl>\n<dt><span id=\"details\">How do I get details on plans I’m interested in, like if my doctors and drugs are covered?</span></dt>\n<dd><p>You can view a summary of benefits, a plan brochure, a provider directory, and a list of covered drugs for each plan. You’ll find links to all of these when you’re comparing Marketplace plans or <a href=\"/see-plans/\">previewing plans and prices</a> before you log in.</p></dd>\n<dd><p>You can also search for your doctors, medical facilities, and prescription drugs when you compare plans. Select your doctors, hospitals and other medical facilities, and prescription drugs. When you view plans, we’ll tell you if each one covers them in network.</p></dd>\n</dl></div>\n",
+  "sort" : 0
+}
